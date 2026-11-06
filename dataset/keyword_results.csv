@@ -1,0 +1,51 @@
+query,document,keyword_score
+what is artificial intelligence and how does it work?,document8.txt,5
+what is artificial intelligence and how does it work?,document1.txt,4
+what is artificial intelligence and how does it work?,document2.txt,4
+what is artificial intelligence and how does it work?,document3.txt,4
+what is artificial intelligence and how does it work?,document7.txt,4
+how do computers learn from information?,document2.txt,3
+how do computers learn from information?,document1.txt,2
+how do computers learn from information?,document7.txt,2
+how do computers learn from information?,document3.txt,1
+how do computers learn from information?,document4.txt,1
+what technology uses neural networks with many layers?,document3.txt,4
+what technology uses neural networks with many layers?,document5.txt,1
+what technology uses neural networks with many layers?,document6.txt,1
+what technology uses neural networks with many layers?,document1.txt,0
+what technology uses neural networks with many layers?,document10.txt,0
+how can computers understand human language?,document1.txt,2
+how can computers understand human language?,document4.txt,2
+how can computers understand human language?,document6.txt,2
+how can computers understand human language?,document9.txt,2
+how can computers understand human language?,document2.txt,1
+which ai technology creates new content?,document5.txt,4
+which ai technology creates new content?,document1.txt,1
+which ai technology creates new content?,document10.txt,1
+which ai technology creates new content?,document6.txt,1
+which ai technology creates new content?,document8.txt,1
+what are ai models trained on large amounts of text?,document6.txt,8
+what are ai models trained on large amounts of text?,document10.txt,3
+what are ai models trained on large amounts of text?,document3.txt,3
+what are ai models trained on large amounts of text?,document5.txt,3
+what are ai models trained on large amounts of text?,document1.txt,2
+how do machines recognize objects in pictures?,document1.txt,3
+how do machines recognize objects in pictures?,document3.txt,1
+how do machines recognize objects in pictures?,document8.txt,1
+how do machines recognize objects in pictures?,document9.txt,1
+how do machines recognize objects in pictures?,document10.txt,0
+how can ai help doctors identify diseases?,document8.txt,5
+how can ai help doctors identify diseases?,document9.txt,3
+how can ai help doctors identify diseases?,document1.txt,2
+how can ai help doctors identify diseases?,document6.txt,2
+how can ai help doctors identify diseases?,document10.txt,1
+how does technology support personalized student learning?,document8.txt,2
+how does technology support personalized student learning?,document5.txt,1
+how does technology support personalized student learning?,document9.txt,1
+how does technology support personalized student learning?,document1.txt,0
+how does technology support personalized student learning?,document10.txt,0
+what are the ethical concerns of artificial intelligence?,document10.txt,4
+what are the ethical concerns of artificial intelligence?,document1.txt,2
+what are the ethical concerns of artificial intelligence?,document2.txt,2
+what are the ethical concerns of artificial intelligence?,document3.txt,2
+what are the ethical concerns of artificial intelligence?,document5.txt,2

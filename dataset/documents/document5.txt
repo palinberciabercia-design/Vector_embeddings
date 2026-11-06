@@ -1,0 +1,4 @@
+
+Generative AI
+
+Generative AI is a technology that creates new content such as text, images, music, and code. It learns patterns from existing data and generates new outputs. ChatGPT, image generators, and AI writing assistants are examples of generative AI applications.

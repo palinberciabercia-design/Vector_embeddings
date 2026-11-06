@@ -1,0 +1,4 @@
+
+AI Ethics
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important topics include fairness, privacy, transparency, accountability, and avoiding bias. Ethical AI systems should protect user data and make decisions responsibly.

@@ -1,0 +1,4 @@
+
+AI in Healthcare
+
+Artificial Intelligence is used in healthcare to analyze medical images, support diagnosis, predict diseases, and improve patient care. AI systems can help doctors identify patterns in medical data. AI supports healthcare professionals but does not replace medical expertise.

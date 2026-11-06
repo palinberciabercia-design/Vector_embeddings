@@ -1,0 +1,4 @@
+
+Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and improve their performance over time. Common applications include spam detection, recommendation systems, and fraud detection.

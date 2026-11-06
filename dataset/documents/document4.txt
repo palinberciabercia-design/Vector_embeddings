@@ -1,0 +1,4 @@
+
+Natural Language Processing
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language. NLP applications include chatbots, language translation, sentiment analysis, and voice assistants. It combines linguistics, machine learning, and artificial intelligence.
